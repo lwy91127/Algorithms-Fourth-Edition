@@ -1,6 +1,6 @@
 #表达式中序转后序
 
-<pre><code>
+```java
 public class InfixToPostfix {
 	 private static HashMap< Character,Integer> priority=new HashMap< Character,Integer>(){  
        {  
@@ -69,4 +69,4 @@ public class InfixToPostfix {
 		StdOut.println();
 	}
 }
-</pre></code>
+```

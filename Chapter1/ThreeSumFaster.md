@@ -1,6 +1,6 @@
 #ThreeSumFaster
 
-<pre><code>
+```java
 public class ThreeSumFaster {
 	public static void main(String[] args) {
 		int[] a = In.readInts("f:/1Kints.txt");
@@ -29,10 +29,7 @@ public class ThreeSumFaster {
 				l++;
 			}
 		}
-		
-		return cnt;
-		
+		return cnt;	
 	}
-
 }
-</pre></code>
+```
