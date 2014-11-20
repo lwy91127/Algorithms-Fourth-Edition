@@ -1,7 +1,7 @@
 #表达式中序转前序
 
 <pre><code>public class InfixToPre {
-	private static HashMap< Character,Integer> priority=new HashMap< Character,Integer>()
+	private static HashMap&lt;Character,Integer> priority=new HashMap< Character,Integer>()
 	{  
 		{  
 	        put('+', 1);  
