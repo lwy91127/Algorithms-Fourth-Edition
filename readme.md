@@ -4,6 +4,6 @@
 
 * [InfixToPre](./Chapter1/InfixToPre.md)
 
-* [InfixToPostfix](./Chapter1/InfixToPre.md)
+* [InfixToPostfix](./Chapter1/InfixToPostfix.md)
 
 * [ThreeSumFaster](./Chapter1/ThreeSumFaster.md)
