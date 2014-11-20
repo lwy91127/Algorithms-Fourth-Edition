@@ -1,7 +1,8 @@
 #表达式中序转前序
 
-<pre><code>public class InfixToPre {
-	private static HashMap&lt;Character,Integer> priority=new HashMap< Character,Integer>()
+```java
+public class InfixToPre {
+	private static HashMap<Character,Integer> priority=new HashMap< Character,Integer>()
 	{  
 		{  
 	        put('+', 1);  
@@ -28,9 +29,9 @@
 						break;
 					case '+':
 					case '-':
-					case '*':
+					case 
 					case '/':
-						while(!stack.isEmpty() && priority.get(c) &lt; priority.get(stack.peek()))
+						while(!stack.isEmpty() && priority.get(c)< priority.get(stack.peek()))
 						{
 							result.push(stack.pop());
 							//StdOut.print(stack.pop());
@@ -73,4 +74,5 @@
 		}
 		return cs;
 	}
-}</code></pre>
+}
+```
