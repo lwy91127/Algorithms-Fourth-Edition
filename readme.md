@@ -15,3 +15,9 @@ This chapter's code is base on an [example](./Chapter2/Example.md) template, and
 * [SelectionSort](./Chapter2/Selection.md)
 
 * [InsertionSort](./Chapter2/Insertion.md)
+
+* [ShellSort](./Chapter2/Shell.md)
+
+* [MergeSort](./Chapter2/Merge.md)
+
+* [QuickSort](./Chapter2/Quick.md)
