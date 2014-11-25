@@ -1,4 +1,4 @@
-#Algorithms Forth Edition
+#Algorithms Fourth Edition
 
 ##Chapter 1
 
